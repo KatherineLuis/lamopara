@@ -1,0 +1,156 @@
+header
+{
+    background: #291515;
+    color: #d1cce6;
+    padding: 0.5em;
+    overflow: hidden;
+}
+
+header figure 
+{ 
+    float: right;
+    position: relative;
+    
+}
+
+header #logo img 
+{
+    width: 64px;   
+    margin-right: 0.5em;
+    padding-right: 0.5em;
+    
+}
+
+
+
+header h1
+{
+    padding : 3em 3em 0 0;
+    margin : 1em 70px 0 0;
+    font-family: 'Righteous', 'cursive';
+    
+    color : #d1cce6;
+     
+    
+
+}
+nav
+{
+    background: #b95942;
+    padding: 0 0.5em;
+    position: relative;
+    list-style: none;
+
+
+}
+nav ul
+{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    
+
+    
+}
+
+nav ul li
+{
+    display: inline-block;
+    margin: 0 1em 0 0;
+
+
+}
+
+nav ul li a 
+{
+   
+	display: block;
+    text-decoration: none;
+	font-family: 'Yanone Kaffeesatz', 'sans-serif';
+    font-size: 17px;
+	float:left;
+	margin:0;
+	color: #fff;
+	padding: 0.3em;
+    
+	
+    
+    
+    /* display: block;
+    float: left;
+    text-decoration: none;
+    position:  relative;
+	margin: 0;
+	padding: 0.5em;
+	color: white;
+    border-right: 1px solid#fff;*/
+
+}
+
+
+    
+}
+
+
+#contenido
+{
+    margin: 1em;
+    
+    
+    
+}
+
+#contenido .item 
+{
+    background: #fff;
+    border-bottom: 3px solid #461414;
+    margin-bottom: 3em;
+    min-height: 128px;
+    
+}
+
+#contenido .item h2 a
+{ 
+    text-decoration: none;
+    color: #4e3553;
+    
+    
+
+    
+
+
+}
+#contenido .item ul
+{
+    list-style: none;
+
+
+}
+
+#contenido .item_parrafo 
+{
+    font-family: 'Shadows Into Light Two', 'cursive';
+    display: block;
+    text-align: justify;
+ 
+
+
+}
+
+#contenido .item_titulo 
+{
+    border-bottom: 3px solid #461414;
+    text-decoration: none;
+   font-family: 'Yanone Kaffeesatz', 'sans-serif';
+    
+    
+    
+    
+    
+
+}
+    
+#contenido .item .item_imagen img
+{
+    width: 170px;
+}
